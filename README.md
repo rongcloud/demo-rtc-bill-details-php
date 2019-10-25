@@ -1,5 +1,5 @@
 # rtc_conversation_demo
-RTC 信令消息路由和 RTC 音视频会话状态路由实时计算会话详单 DEmo 
+RTC 信令消息路由和 RTC 音视频会话状态路由实时计算会话详单 Demo 
 
 使用说明：
     
